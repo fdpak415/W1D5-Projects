@@ -14,11 +14,9 @@ class TicTacToeNode
   def populate_children
     @board.each.with_index do |row, idy|
       row.each.with_index do |cell, idx|
-        
+
       end
     end
-
-
   end
 
   def losing_node?(evaluator)

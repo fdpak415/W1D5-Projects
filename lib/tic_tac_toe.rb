@@ -73,7 +73,10 @@ class Board
       return :o if triple == [:o, :o, :o]
     end
 
+<<<<<<< HEAD
    
+=======
+>>>>>>> 529bb131b87042cace13f7fe870585f27dc92564
     nil
   end
 
